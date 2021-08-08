@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\1.입출력과 사칙연산">
+      <UniqueIdentifier>{ffdd0d73-a622-4e9a-bd93-2874ef7eeb61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2.if문">
+      <UniqueIdentifier>{b7583ec1-24f8-4c01-88c0-d5a0c2685aad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6.함수">
+      <UniqueIdentifier>{f670b2e4-c739-426e-baf7-c55c594394d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\7.문자열">
+      <UniqueIdentifier>{93757316-0fea-4716-a518-165bd3c7b312}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1.cpp">
+      <Filter>소스 파일\1.입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>소스 파일\1.입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="3.cpp">
+      <Filter>소스 파일\1.입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="4.cpp">
+      <Filter>소스 파일\1.입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="5.cpp">
+      <Filter>소스 파일\1.입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="6.cpp">
+      <Filter>소스 파일\1.입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="7.cpp">
+      <Filter>소스 파일\1.입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="8.cpp">
+      <Filter>소스 파일\1.입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="9.cpp">
+      <Filter>소스 파일\1.입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="10.cpp">
+      <Filter>소스 파일\1.입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="11.cpp">
+      <Filter>소스 파일\1.입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="2-1.cpp">
+      <Filter>소스 파일\2.if문</Filter>
+    </ClCompile>
+    <ClCompile Include="2-2.cpp">
+      <Filter>소스 파일\2.if문</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1.cpp">
+      <Filter>소스 파일\6.함수</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2.cpp">
+      <Filter>소스 파일\6.함수</Filter>
+    </ClCompile>
+    <ClCompile Include="6-3.cpp">
+      <Filter>소스 파일\6.함수</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1.cpp">
+      <Filter>소스 파일\7.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2.cpp">
+      <Filter>소스 파일\7.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3.cpp">
+      <Filter>소스 파일\7.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="7-4.cpp">
+      <Filter>소스 파일\7.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="7-5.cpp">
+      <Filter>소스 파일\7.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="7-6.cpp">
+      <Filter>소스 파일\7.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="7-7.cpp">
+      <Filter>소스 파일\7.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="7-8.cpp">
+      <Filter>소스 파일\7.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="7-9.cpp">
+      <Filter>소스 파일\7.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="7-10.cpp">
+      <Filter>소스 파일\7.문자열</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
