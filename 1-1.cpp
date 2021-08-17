@@ -1,4 +1,4 @@
-// 2557 Hello World (�����5)
+// 2557 Hello World (ºê·ÐÁî5)
 #include <stdio.h>
 
 int main() {
@@ -8,4 +8,4 @@ int main() {
 }
 
 
-// �޸� 1112KB  �ð� 0ms
+// ¸Þ¸ð¸® 1112KB  ½Ã°£ 0ms
