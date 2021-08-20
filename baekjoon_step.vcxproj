@@ -61,7 +61,9 @@
     <ClCompile Include="7-1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="7-10.cpp" />
+    <ClCompile Include="7-10.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="7-2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -89,6 +91,17 @@
     <ClCompile Include="7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="8-1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="8-2.cpp" />
+    <ClCompile Include="8-3.cpp" />
+    <ClCompile Include="8-4.cpp" />
+    <ClCompile Include="8-5.cpp" />
+    <ClCompile Include="8-6.cpp" />
+    <ClCompile Include="8-7.cpp" />
+    <ClCompile Include="8-8.cpp" />
+    <ClCompile Include="8-9.cpp" />
     <ClCompile Include="8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

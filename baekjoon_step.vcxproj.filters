@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\7.문자열">
       <UniqueIdentifier>{93757316-0fea-4716-a518-165bd3c7b312}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\8.기본수학1">
+      <UniqueIdentifier>{7696b73f-fbda-45f5-8984-ead2e71cf3c9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp">
@@ -104,6 +107,33 @@
     </ClCompile>
     <ClCompile Include="7-10.cpp">
       <Filter>소스 파일\7.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="8-1.cpp">
+      <Filter>소스 파일\8.기본수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="8-2.cpp">
+      <Filter>소스 파일\8.기본수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="8-3.cpp">
+      <Filter>소스 파일\8.기본수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="8-4.cpp">
+      <Filter>소스 파일\8.기본수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="8-5.cpp">
+      <Filter>소스 파일\8.기본수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="8-6.cpp">
+      <Filter>소스 파일\8.기본수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="8-7.cpp">
+      <Filter>소스 파일\8.기본수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="8-8.cpp">
+      <Filter>소스 파일\8.기본수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="8-9.cpp">
+      <Filter>소스 파일\8.기본수학1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
