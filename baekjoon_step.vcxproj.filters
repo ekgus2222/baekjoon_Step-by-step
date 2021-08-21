@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\8.기본수학1">
       <UniqueIdentifier>{7696b73f-fbda-45f5-8984-ead2e71cf3c9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\기타">
+      <UniqueIdentifier>{26e60b15-b4ec-4653-8ddf-dc88c9c12cc7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp">
@@ -134,6 +137,9 @@
     </ClCompile>
     <ClCompile Include="8-9.cpp">
       <Filter>소스 파일\8.기본수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="1297.cpp">
+      <Filter>소스 파일\기타</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
