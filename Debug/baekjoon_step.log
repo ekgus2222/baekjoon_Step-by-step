@@ -1,4 +1,2 @@
-﻿  8-9.cpp
-C:\Users\user\source\repos\baekjoon_step\baekjoon_step\8-9.cpp(9,6): warning C4101: 'real_H' :참조되지 않은 지역 변수입니다.
-C:\Users\user\source\repos\baekjoon_step\baekjoon_step\8-9.cpp(9,14): warning C4101: 'real_W' :참조되지 않은 지역 변수입니다.
+﻿  8-2.cpp
   baekjoon_step.vcxproj -> C:\Users\user\source\repos\baekjoon_step\Debug\baekjoon_step.exe
